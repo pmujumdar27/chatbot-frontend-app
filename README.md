@@ -8,7 +8,9 @@ This Repository is for the **Customer Touchpoint App/Website** mentioned in the 
 
 ## Problem Statement
 
-![question](./static/question.png)
+<p align="center">
+  <img width="600" src="static/question.png">
+</p>
 
 ---
 
@@ -20,6 +22,8 @@ The ChatBot for FAQ is built using [DialogFlow](https://dialogflow.cloud.google.
 
 ## Architecture
 
-![architecture](./static/architecture.png)
+<p align="center">
+  <img width="600" src="static/architecture.png">
+</p>
 
 ---
